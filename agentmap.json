@@ -1,19 +1,19 @@
 {
-    "version": "0.1.0-rc.1",
+    "version": "0.1.0-rc.2",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/RKelln/agentmap/releases/download/v0.1.0-rc.1/agentmap_Windows_x86_64.zip",
+            "url": "https://github.com/RKelln/agentmap/releases/download/v0.1.0-rc.2/agentmap_Windows_x86_64.zip",
             "bin": [
                 "agentmap.exe"
             ],
-            "hash": "4fd3520d0acb9f6d5735da135fad7ed4a0a45ecf9aee8fc84c0db521aa1e7446"
+            "hash": "ee47404b7d9432aea1cf7b7841a2730cb9c17fa04e5e829ae9e6e772529c953b"
         },
         "arm64": {
-            "url": "https://github.com/RKelln/agentmap/releases/download/v0.1.0-rc.1/agentmap_Windows_arm64.zip",
+            "url": "https://github.com/RKelln/agentmap/releases/download/v0.1.0-rc.2/agentmap_Windows_arm64.zip",
             "bin": [
                 "agentmap.exe"
             ],
-            "hash": "fff08f94637e3bec14e03af6fad2ff5cc011012a5655a6b2ac8d1e262222a2b2"
+            "hash": "f62e00b70b530599c623013ad197a77590d0bb2308aabf4f33cf0ecdaea813f3"
         }
     },
     "homepage": "https://github.com/RKelln/agentmap",
