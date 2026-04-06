@@ -1,0 +1,22 @@
+{
+    "version": "0.1.0-rc.1",
+    "architecture": {
+        "64bit": {
+            "url": "https://github.com/RKelln/agentmap/releases/download/v0.1.0-rc.1/agentmap_Windows_x86_64.zip",
+            "bin": [
+                "agentmap.exe"
+            ],
+            "hash": "4fd3520d0acb9f6d5735da135fad7ed4a0a45ecf9aee8fc84c0db521aa1e7446"
+        },
+        "arm64": {
+            "url": "https://github.com/RKelln/agentmap/releases/download/v0.1.0-rc.1/agentmap_Windows_arm64.zip",
+            "bin": [
+                "agentmap.exe"
+            ],
+            "hash": "fff08f94637e3bec14e03af6fad2ff5cc011012a5655a6b2ac8d1e262222a2b2"
+        }
+    },
+    "homepage": "https://github.com/RKelln/agentmap",
+    "license": "MIT",
+    "description": "Navigation maps for AI agents in markdown files"
+}
